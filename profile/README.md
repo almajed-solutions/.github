@@ -1,4 +1,4 @@
-[![Open Source at Al Majed Solutions](https://github.com/almajed-solutions/.github/blob/main/images/almajedsolutions.png 'Open Source at Al Majed Solutions')](https://almajedsolutions.com){:target="_blank"}
+[![Open Source at Al Majed Solutions](https://github.com/almajed-solutions/.github/blob/main/images/almajedsolutions.png 'Open Source at Al Majed Solutions')](https://almajedsolutions.com)
 
 # Al Majed Solutions
 
