@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://almajedsolutions.com/" target="_blank">
-    <img src="https://github.com/almajed-solutions/.github/blob/main/images/almajedsolutions.png" alt="Open Source at Al Majed Solutions">
-  </a>
-</p>
+[![Open Source at Al Majed Solutions](https://github.com/almajed-solutions/.github/blob/main/images/almajedsolutions.png 'Open Source at Al Majed Solutions')](https://almajedsolutions.com)
 
 # Al Majed Solutions
 
