@@ -1,4 +1,8 @@
-![Open Source at Al Majed Solutions](https://github.com/almajed-solutions/.github/blob/main/images/almajedsolutions.png)
+<p align="center">
+  <a href="https://zidney-website.vercel.app/">
+    <img src="https://github.com/almajed-solutions/.github/blob/main/images/almajedsolutions.png" alt="Open Source at Al Majed Solutions">
+  </a>
+</p>
 
 # Al Majed Solutions
 
