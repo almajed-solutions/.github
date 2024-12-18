@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://almajedsolutions.com/">
+  <a href="https://almajedsolutions.com/" target="_blank">
     <img src="https://github.com/almajed-solutions/.github/blob/main/images/almajedsolutions.png" alt="Open Source at Al Majed Solutions">
   </a>
 </p>
